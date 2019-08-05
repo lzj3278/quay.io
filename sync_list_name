@@ -1,4 +1,3 @@
-dnsmasq
 elb-presence
 etcd
 etcd-git
